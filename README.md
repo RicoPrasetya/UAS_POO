@@ -7,8 +7,8 @@ Kelompok 2 :
 
 2. Friston Purba - 312210595
 
-3. Gugun Gunawan -
+3. Gugun Gunawan - 312210157
 
-4. Muhammad Alif Fahrezyana -
+4. Muhammad Alif Fahrezyana - 312210163
 
 ### Tampilan Website

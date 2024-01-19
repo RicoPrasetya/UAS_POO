@@ -10,5 +10,3 @@ Kelompok 2 :
 3. Gugun Gunawan - 312210157
 
 4. Muhammad Alif Fahrezyana - 312210163
-
-### Tampilan Website
